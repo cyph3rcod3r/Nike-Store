@@ -11,8 +11,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
 <p>
-<img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181419.png" width="200" height="400"/>
-<img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181354.png" width="200" height="400"/>
+<img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181419.png" width="400" height="880"/>
+<img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181354.png" width="400" height="880"/>
 </p>
 
 ## License
