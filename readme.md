@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/cyph3rcod3r/Tinder-Like"><img src="https://github.com/cyph3rcod3r/Tinder-Like/blob/master/app/src/main/res/drawable/nike.png" alt="Nike-Store" width="200"></a>
+  <a href="https://github.com/cyph3rcod3r/Nike-Store"><img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/app/src/main/res/drawable/nike.png" alt="Nike-Store" width="200"></a>
   <br>
   Nike-Store
   <br>
@@ -10,8 +10,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
-<p align="center">
-<img src="https://github.com/cyph3rcod3r/Tinder-Like/blob/master/app/20210318_100705.gif" />
+<p>
+<img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181419.png" />
+<img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181354.png" />
 </p>
 
 ## License
