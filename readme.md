@@ -12,7 +12,7 @@
 
 <p>
 <img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181419.png" width="300" height="660"/>
-<img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181354.png" width="400" height="660"/>
+<img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/Screenshot_20220904-181354.png" width="300" height="660"/>
 </p>
 
 ## License
