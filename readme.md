@@ -2,11 +2,11 @@
   <br>
   <a href="https://github.com/cyph3rcod3r/Nike-Store"><img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/app/src/main/res/drawable/nike.png" alt="Nike-Store" width="200"></a>
   <br>
-  Nike-Store
+  Nike-Store, Design Credits: M Sajib
   <br>
 </h1>
 
-<h4 align="center">A beautiful NIKE Store like Android App UI built on Jetpack Compose found somewhere on uplabs(can't find it now)</h4>
+<h4 align="center">A beautiful NIKE Store like Android App UI built on Jetpack Compose found on uplabs <a href="https://www.uplabs.com/posts/shoe-e-commerce-app-design">Here<a></h4>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
